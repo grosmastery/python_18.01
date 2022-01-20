@@ -15,4 +15,4 @@ print(quo)
 print(deg_first)
 print(deg_second)
 print(quo1)
-print(quo2
+print(quo2)
